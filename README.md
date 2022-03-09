@@ -1,6 +1,6 @@
 # listview_example
 
-A new Flutter project.
+Flutter project using animal images.
 
 ## Getting Started
 
